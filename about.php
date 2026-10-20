@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
   <head>
     <title>AYNOU-SHOP/À propos</title>
     <meta charset="utf-8">
@@ -27,6 +27,7 @@
     <link rel="stylesheet" href="css/flaticon.css">
     <link rel="stylesheet" href="css/icomoon.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/apropos.css">
   </head>
   <body class="goto-here">
   <?php
@@ -50,7 +51,7 @@
 				<div class="row">
 					<div class="col-md-5 p-md-5 img img-2 d-flex justify-content-center align-items-center" >
 						<a  class=" d-flex justify-content-center align-items-center" >
-							<img src="images/logo.png" style="width:500px;">
+							<img src="images/logo.png" alt="Logo AYNOU-SHOP" class="img-fluid">
 						</a>
 					</div>
 					<div class="col-md-7 py-5 wrap-about pb-md-5 ftco-animate">
@@ -60,11 +61,40 @@
 	            </div>
 	          </div>
 	          <div class="pb-md-5">
-              <p> AYNOU-SHOP est un boutique en ligne qui vous offre des produits cosmetiques à 100% BIO.</p>
-              <p>Trop souvent, les produits bio et naturels disponibles sur le marché ne sont pas adaptés aux attentes du consommateur, que ce soit à cause d’un mauvais rapport qualité prix (trop chers ou de faible qualité) ou à cause d’origines douteuses.
-                Et por cela AYNOU-SHOP supprimant les intermédiaires, en mettant en place un processus de sélection adapté des fournisseurs(coopératives), et en offrant un service de livraison rapide à domicile, AYNOU-SHOP fait de la satisfaction de ses clients sa première priorité.
-                En misant majoritairement sur la production locale, AYNOU-SHOP essayé de mis en valeur les produits produisent par des femmes des coopératives locaux</p>
-							<p>Paiement cash à livraion ou par internet. Paiements sécurisés. Livraison à domicile.</p>
+              
+<h3>Notre histoire</h3>
+<img src="argan.jpg"
+     alt="Huile d'argan marocaine"
+     class="img-fluid mb-4">
+<p>
+    AYNOU-SHOP est une boutique en ligne spécialisée
+    dans les produits cosmétiques naturels.
+    Notre objectif est de proposer des produits de qualité
+    tout en valorisant le savoir-faire marocain.
+</p>
+
+<p>
+    Nous accordons une grande importance à la sélection
+    de nos fournisseurs et aux produits issus des
+    coopératives locales, afin de contribuer à la préservation
+    des traditions artisanales marocaines.
+</p>
+
+<p>
+    Notre priorité est de satisfaire nos clients grâce à
+    une sélection attentive des produits, un service de
+    livraison à domicile et plusieurs moyens de paiement.
+</p>
+
+<h3>Notre engagement</h3>
+
+<p>
+    Nous souhaitons rendre les produits naturels plus
+    accessibles et encourager une consommation responsable,
+    dans le respect de nos clients et du savoir-faire local.
+</p>
+
+             
 							<p><a href="produits-argane.php?product_categ=0" class="btn btn-primary">Achetez maintenant</a></p>
 						</div>
 					</div>
@@ -73,12 +103,110 @@
 		</section>
 
 		
+<section class="ftco-section apropos-values">
+    <div class="container">
+
+        <div class="text-center mb-5">
+            <span class="subheading">Ce qui nous guide</span>
+            <h2>Nos valeurs</h2>
+            <img src="produitargan.jpg"
+     alt="Coopérative marocaine"
+     class="img-fluid mb-4">
+            <p>Les engagements qui nous tiennent à cœur.</p>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-4 mb-4">
+                <div class="value-card">
+                    <h3>Qualité</h3>
+                    <p>
+                        Nous accordons une attention particulière
+                        à la sélection de nos produits.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="value-card">
+                    <h3>Savoir-faire local</h3>
+                    <p>
+                        Nous souhaitons valoriser les coopératives
+                        locales et le patrimoine marocain.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="value-card">
+                    <h3>Satisfaction client</h3>
+                    <p>
+                        Nous mettons l'accent sur un service
+                        accessible et une expérience agréable.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
+<section class="ftco-section argan-benefits">
+    <div class="container">
+
+        <div class="text-center mb-5">
+            <span class="subheading">La richesse du Maroc</span>
+            <h2>Les bienfaits de l'huile d'argan</h2>
+            <p>
+                L'huile d'argan est un produit naturel
+                précieux issu du patrimoine marocain.
+            </p>
+        </div>
+
+        <div class="row">
+
+            <div class="col-md-4 mb-4">
+                <div class="benefit-card">
+                    <h3>Pour la peau</h3>
+                    <p>
+                        L'huile d'argan aide à nourrir la peau
+                        et à maintenir son hydratation.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="benefit-card">
+                    <h3>Pour les cheveux</h3>
+                    <p>
+                        Elle aide à assouplir les cheveux
+                        et à leur apporter de la brillance.
+                    </p>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="benefit-card">
+                    <h3>Une huile précieuse</h3>
+                    <p>
+                        L'huile d'argan contient notamment
+                        des acides gras et de la vitamine E.
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+
     <section class="ftco-section testimony-section">
       <div class="container">
         <div class="row justify-content-center mb-5 pb-3">
           <div class="col-md-7 heading-section ftco-animate text-center">
           	<span class="subheading">Témoignage</span>
-            <h2 class="mb-4">Notre client satisfait dit</h2>
+            <h2 class="mb-4">Les avis de nos clients</h2>
           </div>
         </div>
         <div class="row ftco-animate">
@@ -92,7 +220,7 @@
                     </span>
                   </div>
                   <div class="text text-center">
-                    <p class="mb-5 pl-4 line">J'adore les produits , ils sont vraiments quelquechose de qualité .</p>
+                    <p class="mb-5 pl-4 line"> J'adore les produits : ils sont de très bonne qualité.</p>
                     <p class="name">Oumaima Amkane</p>
                     <span class="position">Etudiante en gènie informatique</span>
                   </div>

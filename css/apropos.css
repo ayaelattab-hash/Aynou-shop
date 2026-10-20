@@ -1,0 +1,122 @@
+
+/* =================================
+   PAGE À PROPOS - AYNOU-SHOP
+================================= */
+
+/* Image du logo */
+.ftco-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Titres principaux */
+.apropos-values h2,
+.argan-benefits h2 {
+    color: #28594b;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+/* Petits titres au-dessus des sections */
+.apropos-values .subheading,
+.argan-benefits .subheading {
+    color: #d97736;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+/* Paragraphes des sections */
+.apropos-values > .container > .text-center > p,
+.argan-benefits > .container > .text-center > p {
+    color: #666;
+    line-height: 1.8;
+}
+
+/* Section Nos valeurs */
+.apropos-values {
+    padding: 70px 0;
+    background-color: #f7f5ef;
+}
+
+/* Section Bienfaits de l'huile d'argan */
+.argan-benefits {
+    padding: 70px 0;
+    background-color: #fff;
+}
+
+/* Cartes des deux sections */
+.value-card,
+.benefit-card {
+    height: 100%;
+    padding: 30px 24px;
+    background-color: #fff;
+    border-radius: 12px;
+    border: 1px solid #eee9df;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.06);
+    transition: transform 0.3s ease,
+                box-shadow 0.3s ease;
+}
+
+/* Titres des cartes */
+.value-card h3,
+.benefit-card h3 {
+    color: #b96f35;
+    font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+/* Texte des cartes */
+.value-card p,
+.benefit-card p {
+    color: #555;
+    font-size: 15px;
+    line-height: 1.8;
+    margin-bottom: 0;
+}
+
+/* Effet au passage de la souris */
+.value-card:hover,
+.benefit-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+}
+
+/* Responsive : tablettes et téléphones */
+@media (max-width: 767px) {
+    .apropos-values,
+    .argan-benefits {
+        padding: 45px 0;
+    }
+
+    .apropos-values h2,
+    .argan-benefits h2 {
+        font-size: 27px;
+    }
+
+    .value-card,
+    .benefit-card {
+        padding: 24px 20px;
+    }
+
+    .value-card h3,
+    .benefit-card h3 {
+        font-size: 19px;
+    }
+}
+/* Images responsives */
+.apropos-values img,
+.argan-benefits img,
+.ftco-section img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Respecter les petits écrans */
+@media (max-width: 767px) {
+    .apropos-values .container,
+    .argan-benefits .container {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+}
