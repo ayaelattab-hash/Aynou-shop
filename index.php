@@ -44,7 +44,7 @@
 	          <div class="row slider-text justify-content-center align-items-center" data-scrollax-parent="true">
 
 	            <div class="col-md-12 ftco-animate text-center">
-	              <h1 class="mb-2">Aynou-Shop</h1>
+	              <h1 class="mb-2">Bienvenue chez Aynou-Shop</h1>
 	              <h2 class="subheading mb-4">Votre diapositive de l'arbre magique
 					</h2>
 	              <p><a href="produits-argane.php?product_categ=0" class="btn btn-primary">Voire les produits</a></p>
